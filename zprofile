@@ -1,4 +1,6 @@
 
+# brew, zsh, python, nvm, pyenv
+
 eval "$(/opt/homebrew/bin/brew shellenv)"
 
 export NVM_DIR="$HOME/.nvm"
@@ -21,3 +23,5 @@ function _venv_dir () {
 }
 
 alias activate='source "$(_venv_dir)/bin/activate"'
+
+
