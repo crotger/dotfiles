@@ -1,5 +1,5 @@
 
-# brew, zsh, python, nvm, pyenv
+# brew, zsh, python, nvm, pyenv, jq
 
 eval "$(/opt/homebrew/bin/brew shellenv)"
 
