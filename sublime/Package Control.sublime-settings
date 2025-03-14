@@ -1,0 +1,22 @@
+{
+	"installed_packages":
+	[
+		"Debugger",
+		"Django",
+		"Django Syntax",
+		"Git",
+		"GitGutter",
+		"JsPrettier",
+		"LSP",
+		"LSP-pyright",
+		"LSP-ruff",
+		"LSP-terraform",
+		"LSP-typescript",
+		"Package Control",
+		"Sass",
+		"SublimeLinter",
+		"SublimeLinter-eslint",
+		"SublimeLinter-shellcheck",
+		"Terraform",
+	],
+}
